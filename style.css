@@ -33,6 +33,9 @@ ol:hover{
     height: 43px;
     cursor: pointer;
     margin-right: 30px;
+    border: none;
+    font-family: 'Montserrat', sans-serif;
+    cursor: pointer;
 }
 
 .logo {
@@ -95,6 +98,7 @@ ol:hover{
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
     font-size: 14px; 
+    cursor: pointer;
 }
 
 .foto-header{
@@ -141,30 +145,72 @@ ol:hover{
 }
 
 .paragrafo-1 {
-    background-color: rgb(244, 132, 132);
+    background-color: rgb(255, 255, 255);
     width: 40%;
     height: 30rem;
+    padding-left: 40px;
 }
 
 .imagem-1{
-    background-color: rgb(48, 43, 43);
+    background-color: rgb(255, 255, 255);
     width: 60%;
     height: 30rem;
 }
 
+.sol-img {
+    width: 750px;
+    height: 362px;
+}
+
+.label-content-3 {
+    color: #43454b;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 12px;
+    padding-bottom: 10px; 
+    margin-bottom: 10px;
+}
+
+.h2-content-3{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 36px;
+    height: 50px;
+    color: #000000;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.paragrafo-3 {
+    width: 284px;
+    height: 180px;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 10px;
+    font-weight: 400;
+    margin-bottom: 10px;
+    font-size: 16px;
+    opacity: 60%;
+    line-height: 1.5;
+}
 .content-3dois {
     display: flex;
 }
 
+.SolSePondo-img {
+    width: 750px;
+    height: 362px;
+}
 .paragrafo-2 {
-    background-color: rgb(48, 43, 43);
-    width: 60%;
+    background-color: rgb(255, 255, 255);
+    width: 40%;
     height: 30rem;
 }
 
+
+
 .imagem-2{
-    background-color: rgb(244, 132, 132);
-    width: 40%;
+    background-color: rgb(255, 255, 255);
+    width: 60%;
     height: 30rem;
 }
 
