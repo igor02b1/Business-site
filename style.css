@@ -6,6 +6,7 @@
     box-sizing: border-box;
 }
 
+/*
 .container-header{
     height: 70px;
     display: flex;
@@ -43,8 +44,12 @@ ol:hover{
     height: 26px;
     margin-left: 30px;
 }
+
+*/
+
 /* sessão - 1 */
 
+/*
 .section-1 {
     background-color: white;
     height: 37rem;
@@ -106,8 +111,10 @@ ol:hover{
     height: 620px;
 }
 
+*/
 /* pré sessão 2 */ 
 
+/*
 .content-2 {
     background-color: rgb(255, 255, 255);
     height: 19rem;
@@ -133,7 +140,13 @@ ol:hover{
     height: 50px;
     color: #000000;
 }
+
+*/ 
+
+
 /* sessão - 2 */
+
+/*
 
 .section-2 {
     background-color: rgb(255, 255, 255);
@@ -213,6 +226,8 @@ ol:hover{
     width: 60%;
     height: 30rem;
 }
+
+*/
 
 /* section - 3  */
 
