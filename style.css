@@ -232,22 +232,24 @@ ol:hover{
 /* section - 3  */
 
 .section-3 {
-    background-color: rgb(173, 102, 240);
+    background-color: rgb(255, 255, 255);
     height: 50rem;
 }
 
 .div-bloco {
     display: flex;
     justify-content: space-between;
-    padding-top: 12rem;
+    align-items: center;
+    padding-top: 3rem;
 }
 
+/*
 .bloco-1, .bloco-2, .bloco-3 {
     background-color: rgb(224, 104, 124);
     height: 30rem;
     width: 33%;
 }
-
+*/
 /* section - 4 */
 
 .section-4 {
